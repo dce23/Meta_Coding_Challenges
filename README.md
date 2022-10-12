@@ -1,5 +1,9 @@
+![Meta Logo](https://www.facebook.com/images/candidate_portal/desktop/2x/meta-lockup-primary_16_light-2x.png)
+
 # Meta_Coding_Challenges
 My solutions to the coding puzzels on [Meta careers] (https://www.metacareers.com/). Each solutions was coded in Python 3.
+
+![Top Achivements](https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/fZkSBrnusyM.png)
 
 
 ## Warmup
