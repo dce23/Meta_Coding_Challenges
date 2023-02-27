@@ -14,7 +14,7 @@ Getting familiar with the coding puzzles.
 
 ## Level 1
 Used fundamental data structures and algorithms to solve basic puzzles.
-- [ ] Cafeteria
+- [x] Cafeteria
 - [ ] Director of Photography (Chapter 1)
 - [ ] Kaitenzushi
 - [ ] Rotary Lock (Chapter 1)
